@@ -79,9 +79,10 @@ border-radius:10px;
 }
 
 .socials a{
-font-size:30px;
-margin-right:15px;
-color:#3b82f6;
+    text-decoration: none;
+    font-size: 30px;
+    margin-right: 15px;
+    color: #3b82f6;
 }
 
 @media(max-width:768px){
